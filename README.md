@@ -1,6 +1,6 @@
 ## Olá, meu nome é Thiago
 
-🎓- Bacharel em Direito e Graduando em Análise e Desenvolvimento de Sistemas.
+🎓- Bacharel em Direito e graduado em Análise e Desenvolvimento de Sistemas.
 
 📚- Análise e ciência de dados 🎲.
  
